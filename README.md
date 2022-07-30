@@ -11,11 +11,11 @@ learngitbranching.js.org <br>
 Было сложно, потому что периодически сайт лагал и приходилось перезагружать. Узнала много новых команд, поняла, какие у гита есть возможности.<br>
  
 ## 1. Linux CLI, and HTTP
-Linux Survival (4 modules)
- ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/first%20quiz.png)
- ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/second%20quiz.png)
- ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/third%20quiz.png)
- ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/fourth%20quiz.png)
+Linux Survival (4 modules) <br>
+ ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/first%20quiz.png)  <br>
+ ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/second%20quiz.png)  <br>
+ ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/third%20quiz.png)  <br>
+ ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/fourth%20quiz.png)  <br>
 
 В основном информация была не знакома, за исключением тех команд, которые есть на Виндовс. Было интересно проходить, все законспектировала, в будущем при оказии будет инфа для использования.
 
@@ -26,7 +26,7 @@ Introduction to Git and GitHub <br>
 Стало больше понимания по PR, работе в команде и код-ревью<br>
 
 learngitbranching.js.org <br>
-Окончательно разобралась по работе с удаленным репозиторием. Не уверена, что уже есть куда применять эти знания, но главное знать, что такая информация существует.
- ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_git_collaboration/local%20git.png)
- ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_git_collaboration/git%20remotes.png)
+Окончательно разобралась по работе с удаленным репозиторием. Не уверена, что уже есть куда применять эти знания, но главное знать, что такая информация существует.  <br>
+ ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_git_collaboration/local%20git.png)  <br>
+ ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_git_collaboration/git%20remotes.png)  <br>
 
