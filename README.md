@@ -12,10 +12,10 @@ learngitbranching.js.org <br>
  
 ## 1. Linux CLI, and HTTP
 Linux Survival (4 modules)
-1. ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/first%20quiz.png)
-2. ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/second%20quiz.png)
-3. ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/third%20quiz.png)
-4. ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/fourth%20quiz.png)
+ ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/first%20quiz.png)
+ ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/second%20quiz.png)
+ ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/third%20quiz.png)
+ ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_linux_cli/fourth%20quiz.png)
 
 В основном информация была не знакома, за исключением тех команд, которые есть на Виндовс. Было интересно проходить, все законспектировала, в будущем при оказии будет инфа для использования.
 
@@ -27,6 +27,6 @@ Introduction to Git and GitHub <br>
 
 learngitbranching.js.org <br>
 Окончательно разобралась по работе с удаленным репозиторием. Не уверена, что уже есть куда применять эти знания, но главное знать, что такая информация существует.
-1. ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_git_collaboration/local%20git.png)
-2. ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_git_collaboration/git%20remotes.png)
+ ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_git_collaboration/local%20git.png)
+ ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_git_collaboration/git%20remotes.png)
 
