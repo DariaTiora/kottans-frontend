@@ -42,3 +42,12 @@ learngitbranching.js.org <br>
 В CSS было новым Отображение и Позиционирование обьектов на экране, так же HSC формат для настройки цвета. 
 1. ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_html_css_intro/codecadamy%20css.png)
 2. ![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_html_css_intro/coursera%20css.png)
+
+
+## Responsive Web Design
+
+![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_responsive_web_design/unnamed.png)
+![](https://github.com/DariaTiora/kottans-frontend/blob/main/task_responsive_web_design/grid%20garden.PNG)
+
+Супер новая для меня информация, рада, что разобралась.
+Буду использовать на практике, изучу доп. материалы.
